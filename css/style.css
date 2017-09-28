@@ -1,74 +1,85 @@
-       .logo
-		{
-			width: 50%;
-		}
-		.me
-		{
-			width: 50%;
-			text-align: right;
-		}
-		main picture img{
-			width: 100%;
-		}
-		header
-		{
-			margin-right: 10%;
-			margin-left: 10%;
-			display: flex;
-			flex-wrap: wrap;
-		}
-		h1,h3{
-			margin: 0px;
-			color: #7d97ad;
-		}
-		main
-		{
-			margin-right: 10%;
-			margin-left: 10%;
-		}
-		hr{
-			margin-right: 10%;
-			margin-left: 10%;
-			border: 1px solid #7d97ad;
-		}
-		footer{
-			margin-top: 10px;
-			display: flex;
-			flex-wrap: wrap;
-		}
-		.container{
-			display: flex;
-			flex-wrap: wrap;
-		}
-		.project{
-			margin-bottom: 1em;
-			padding-top: 1em;
-		}
-		h2{
-			word-wrap: break-word;
-			font-size: 2vw;
-			text-align: center;
-		}
-		p{
-			word-wrap: break-word;
-			font-size: 1vw;
-			text-align: center;
-		}
-		.project img{
-			max-width: 100%;
-			width: 75%;
-			height: 15em;
-			display: block;
-			margin: auto;
-		}
-		section{
-			font-family: "Courier New";
-			font-size: 100%;
-			text-align: justify;
-			margin-top: 1em;
-			margin-bottom: 1em;
-		}
-		.project:hover {
-            background-color: #EEE;
-            cursor: pointer;
-        }
+.logo{
+
+	width: 50%;
+}
+.me{
+	
+	width: 50%;
+	text-align: right;
+}
+main picture img{
+	
+	width: 100%;
+}
+header{
+	
+	margin-right: 10%;
+	margin-left: 10%;
+	display: flex;
+	flex-wrap: wrap;
+}
+h1,h3{
+	
+	margin: 0px;
+	color: #7d97ad;
+}
+main{
+	
+	margin-right: 10%;
+	margin-left: 10%;
+}
+hr{
+	
+	margin-right: 10%;
+	margin-left: 10%;
+	border: 1px solid #7d97ad;
+}
+footer{
+
+	margin-top: 10px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.container{
+
+	display: flex;
+	flex-wrap: wrap;
+}
+.project{
+
+	margin-bottom: 1em;
+	padding-top: 1em;
+}
+h2{
+
+	word-wrap: break-word;
+	font-size: 2vw;
+	text-align: center;
+}
+p{
+
+	word-wrap: break-word;
+	font-size: 1vw;
+	text-align: center;
+}
+.project img{
+
+	max-width: 100%;
+	width: 75%;
+	height: 15em;
+	display: block;
+	margin: auto;
+}
+section{
+
+	font-family: "Courier New";
+	font-size: 100%;
+	text-align: justify;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+.project:hover {
+
+    background-color: #EEE;
+    cursor: pointer;
+}
